@@ -5,7 +5,7 @@ Ce projet consiste en une plateforme de gestion des agriculteurs pour l'entrepri
 
 ## Lien GitHub
 Le code source du projet est disponible sur GitHub :  
-[https://github.com/votre-utilisateur/agriconnect](https://github.com/votre-utilisateur/agriconnect)
+[https://github.com/rsow9154/agriconnect](https://github.com/rsow9154/agriconnect)
 
 ## Documentation de l'API
 La documentation de l'API est disponible ici :  
@@ -15,4 +15,4 @@ La documentation de l'API est disponible ici :
 ## Installation
 1. Cloner le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/agriconnect.git
+   git clone https://github.com/rsow9154/agriconnect.git
